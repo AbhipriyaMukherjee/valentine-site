@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 
-export default function ValentineApp() {
+export default function App() {
   const [noCount, setNoCount] = useState(0);
   const [noPos, setNoPos] = useState({ x: 0, y: 0 });
 
