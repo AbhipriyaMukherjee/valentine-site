@@ -50,7 +50,7 @@ export default function App() {
           Will you be my Valentine? 💘
         </h1>
         <p className="text-gray-600 mb-6">
-          Ashu, you are the best thing that ever happened to me. I love you so much, and I promise to love your disgusting farts almost as much as I love you 💨❤️
+          Nesha❤️
           <br />
           {noCount > 0
             ? messages[(noCount - 1) % messages.length]
